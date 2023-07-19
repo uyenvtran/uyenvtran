@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @uyenvtran
-- 👀 I’m interested in increasing my Python skills
-- 🌱 I’m currently learning MySQL
-- I mainly have Excel projects on here
+- 👀 I’m interested in increasing my MySQL skills
+- I mainly have Excel projects here
